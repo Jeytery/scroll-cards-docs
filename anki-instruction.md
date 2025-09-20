@@ -10,6 +10,6 @@
 
 Текст перед картинкой.
 
-![Описание картинки](https://raw.githubusercontent.com/Jeytery/scroll-cards-docs/main/photo_2025-09-03 15.47.55.jpeg)
+![Описание картинки](https://raw.githubusercontent.com/Jeytery/scroll-cards-docs/main/photo_test.jpeg)
 
 Текст после картинки
