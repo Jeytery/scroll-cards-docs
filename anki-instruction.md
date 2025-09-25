@@ -1,4 +1,4 @@
-# TEST INSTRUCTION
+# ANKI INSTRUCTION
 
 1. Go to [AnkiWeb - shared decks](https://ankiweb.net/shared/decks)
 2. Download deck
