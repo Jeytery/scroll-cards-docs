@@ -9,7 +9,7 @@
 So you could get error while adding deck
 
 ⚠️ Got error? Write to 
-``` dimaosapchenko@gmail.com ``` put error and deck url 
+``` dimaosapchenko@gmail.com ```, put error and deck url in the message
 
 # Заголовок
 
