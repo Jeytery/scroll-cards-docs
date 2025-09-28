@@ -1,20 +1,14 @@
-# ANKI INSTRUCTION
 
+Anki - cards with two sides (front and front). Great for learning
+
+AnkiWeb - site that contains a lot of free learning decks
+
+In ScrollCards you can you then. Front for main content, back for quiz to check yourself up
+
+### Installation
 1. Go to [AnkiWeb - shared decks](https://ankiweb.net/shared/decks)
 2. Download deck
-3. Tap Select .apgn file and select it 
-4. Wait for a sec (sometimes it could take a few minutes to convert anki deck because of deck's size)
+3. In Scrollcards go to Import Anki Deck -> Select .apkg file
+4. In menu find file and select it. (Commonly it stored in Donwload folder)
+5. Wait for a sec (sometimes it could take a few minutes to convert anki deck because of deck's size)
 
-⚠️ App doesn't support all anki decks 
-So you could get error while adding deck
-
-⚠️ Got error? Write to 
-``` dimaosapchenko@gmail.com ```, put error and deck url in the message
-
-# Заголовок
-
-Текст перед картинкой.
-
-![Описание картинки](https://raw.githubusercontent.com/Jeytery/scroll-cards-docs/main/photo_test.jpeg)
-
-Текст после картинки
